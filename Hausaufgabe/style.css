@@ -29,8 +29,7 @@ main {
   background: rgba(255, 255, 255, 0.934);
   border-radius: 20px;
   box-shadow: 0 4px 16px #91613d3b;
-  
-  /* Optional: Input & Buttons in einer Zeile anordnen */
+ 
   display: flex;
   flex-wrap: wrap;
   align-items: center;
